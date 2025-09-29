@@ -10,10 +10,10 @@ The Data folder contains the data used:
 ### Codes
 The Codes folder contains information about the codes in the R language:
 
-- [Descriptive statistics - Table 3](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTable3.R): code for the descriptive statistics
-- [Estimates - Table 5, 6, 7 and 8](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTables5_6_7_8.R): codes for estimating econometric models
-- [CV and Theil - Figure 6](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputFigure6.R): code to calculate CV and Theil index of the real GDP per capita 
-- [Effect of temperature on economic growth - Figure 7](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputFigure7.R): code for the effect of temperature on economic growth 
+- [Descriptive statistics - Table 3](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputTable3.R): code for the descriptive statistics
+- [Estimates - Table 5, 6, 7 and 8](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputTables5_6_7_8.R): codes for estimating econometric models
+- [CV and Theil - Figure 6](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputFigure6.R): code to calculate CV and Theil index of the real GDP per capita 
+- [Effect of temperature on economic growth - Figure 7](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputFigure7.R): code for the effect of temperature on economic growth 
 
 ### Cite
 García, G., Restrepo, P., Aristizábal, J. (2025). "Institutional quality, climate change impacts, and regional economic growth. Evidence from Peru", forthcoming
