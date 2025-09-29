@@ -3,14 +3,16 @@
 ### Codes
 The Codes folder contains information about the codes in the R language:
 
-- [Descriptive Statistics - Table 3](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTable3.R): code for the descriptive statistics
-- [Estimates - Table 5](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTable5.R): codes for estimating econometric models
+- [Descriptive statistics - Table 3](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTable3.R): code for the descriptive statistics
+- [Estimates - Table 5, 6, 7 and 8](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputTables5_6_7_8.R): codes for estimating econometric models
+- [CV and Theil - Figure 6](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputFigure6.R): code to calculate CV and Theil index of the real GDP per capita 
 - [Effect of temperature on economic growth - Figure 7](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Codes/outputFigure7.R): code for the effect of temperature on economic growth 
 
 ### Data
 The Data folder contains the data used:
 
-- [Data](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/data_paper.csv): dataset used
+- [Definition of variables](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/def_var.xlsx)
+- [Data](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/data_paper.xlsx): dataset used
 - [Shape](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/dpto_peru.zip): Shape file of departments of Peru (maps were calculated using QGIS and there is no code available)
 
 ### Cite
