@@ -3,9 +3,9 @@
 ### Data
 The Data folder contains the data used:
 
-- [Definition of variables](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/def_var.xlsx)
+- [Definition of variables](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/data_dictionary.xlsx): file describing the variables used and the sources of information
 - [Data](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/data_paper.xlsx): dataset used
-- [Shape](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/dpto_peru.zip): Shape file of departments of Peru (maps were calculated using QGIS and there is no code available)
+- [Shape](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Data/dpto_peru.zip): Shapefile of Peruvian departments (maps were calculated using QGIS and there is no code available)
 
 ### Codes
 The Codes folder contains information about the codes in the R language:
