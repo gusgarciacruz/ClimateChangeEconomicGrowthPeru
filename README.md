@@ -15,8 +15,8 @@ The Codes folder contains information about the codes in the R language:
 - [CV and Theil - Figure 6](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputFigure6.R): code to calculate CV and Theil index of the real GDP per capita 
 - [Effect of temperature on economic growth - Figure 7](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Code/outputFigure7.R): code for the effect of temperature on economic growth 
 
-### Cite
-García, G., Restrepo, P., Aristizábal, J. (2025). "Institutional quality, climate change impacts, and regional economic growth. Evidence from Peru", forthcoming
+### Manuscript with tables and figures
+García, G., Restrepo, P., Aristizábal, J. (2025). ["Institutional quality, climate change impacts, and regional economic growth. Evidence from Peru"](https://gusgarciacruz.github.io/ClimateChangeEconomicGrowthPeru/Garcia_Restrepo_Aristizabal_2025.pdf), forthcoming
 
 ### Authors
 - [Gustavo A. García](https://gusgarciacruz.github.io/cv) - Universidad EAFIT (Colombia)
